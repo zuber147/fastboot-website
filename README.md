@@ -1,3 +1,4 @@
+Improve Docs
 [![Build Status](https://travis-ci.org/ember-fastboot/fastboot-website.svg?branch=master)](https://travis-ci.org/ember-fastboot/fastboot-website)
 
 # FastBoot Website
